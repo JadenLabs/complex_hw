@@ -5,6 +5,7 @@ This is my attempt at the "Pixelize | Coding Community" coding challenge for 10/
 
 Message link:
 > https://discord.com/channels/840843121578475530/1165634395646988409/1167028392407871560
+
 Server invite:
 > https://discord.gg/DXgeqZaA8w
 
