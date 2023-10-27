@@ -9,5 +9,5 @@ Message link:
 Server invite:
 > https://discord.gg/DXgeqZaA8w
 
-**Task**:
+### Task:
 > "This code event is simple and not very hard, but what's the most complex way to print in console "Hello World!"?"
